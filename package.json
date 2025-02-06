@@ -207,7 +207,7 @@
             },
             {
                 "command": "extension.rule33",
-                "title": "$(rocket) zz: 手机号(mobile phone)中国(严谨), 根据工信部2019年最新公布的手机号段"
+                "title": "$(rocket) zz: 手机号(mobile phone)中国(严谨), 根据工信部最新公布的手机号段"
             },
             {
                 "command": "extension.rule34",
