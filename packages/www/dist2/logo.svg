@@ -1,0 +1,19 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <!-- 外圆 -->
+    <circle cx="50" cy="50" r="45" fill="white" stroke="#42b983" stroke-width="6"/>
+
+    <!-- 正则符号元素 -->
+    <g fill="#42b983">
+        <!-- 星号符号 -->
+        <circle cx="50" cy="30" r="5" />
+        <rect x="47.5" y="30" width="5" height="25" rx="2.5" />
+        <rect x="37.5" y="50" width="25" height="5" rx="2.5" />
+
+        <!-- 括号元素 -->
+        <path d="M30,30 Q20,50 30,70" fill="none" stroke="#42b983" stroke-width="6" stroke-linecap="round"/>
+        <path d="M70,30 Q80,50 70,70" fill="none" stroke="#42b983" stroke-width="6" stroke-linecap="round"/>
+
+        <!-- 匹配线 -->
+        <line x1="45" y1="65" x2="55" y2="65" stroke="#42b983" stroke-width="4" stroke-linecap="round"/>
+    </g>
+</svg>
